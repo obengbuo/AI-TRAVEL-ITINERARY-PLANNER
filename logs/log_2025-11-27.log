@@ -1,0 +1,26 @@
+2025-11-27 21:40:50,097 - INFO - Intilaized TravelPlanner instance
+2025-11-27 21:42:44,379 - INFO - Intilaized TravelPlanner instance
+2025-11-27 21:42:44,382 - INFO - City set sucesfully
+2025-11-27 21:44:40,849 - INFO - Intilaized TravelPlanner instance
+2025-11-27 21:44:40,850 - INFO - City set sucesfully
+2025-11-27 21:44:42,530 - INFO - Intilaized TravelPlanner instance
+2025-11-27 21:44:42,530 - INFO - City set sucesfully
+2025-11-27 21:44:43,325 - INFO - Intilaized TravelPlanner instance
+2025-11-27 21:44:43,325 - INFO - City set sucesfully
+2025-11-27 21:45:54,408 - INFO - Intilaized TravelPlanner instance
+2025-11-27 21:45:54,410 - INFO - City set sucesfully
+2025-11-27 21:50:20,276 - INFO - Intilaized TravelPlanner instance
+2025-11-27 21:50:20,276 - INFO - City set sucesfully
+2025-11-27 21:50:20,276 - INFO - Interest also set sucesfully..
+2025-11-27 22:04:04,740 - INFO - Intilaized TravelPlanner instance
+2025-11-27 22:04:04,741 - INFO - City set sucesfully
+2025-11-27 22:04:04,741 - INFO - Interest also set sucesfully..
+2025-11-27 22:04:04,741 - INFO - Generating itinerary for Delhi and for interests : ['Red Fort']
+2025-11-27 22:04:05,938 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 22:04:05,978 - INFO - Itinerary generated sucesffully..
+2025-11-27 22:04:18,333 - INFO - Intilaized TravelPlanner instance
+2025-11-27 22:04:18,334 - INFO - City set sucesfully
+2025-11-27 22:04:18,334 - INFO - Interest also set sucesfully..
+2025-11-27 22:04:18,334 - INFO - Generating itinerary for Accra and for interests : ['Food']
+2025-11-27 22:04:19,311 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-27 22:04:19,313 - INFO - Itinerary generated sucesffully..
